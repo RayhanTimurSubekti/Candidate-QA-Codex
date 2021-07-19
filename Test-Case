@@ -1,0 +1,23 @@
+Test Case Software Quality Assurance Engineer CODEX
+
+
+Buatlah pengujian dengan menggunakan cypress.io pada fitur apply candidate pada codex.works  
+Link : https://codex.works/digital-telkom-career/297050#applications
+
+
+Fitur di atas memiliki function :
+Terdapat validasi di setiap field (Full Name, ID Card Number (KTP), Email, Phone Number, Stack/skill, Linkedln, Portfolio Link, Upload file Curriculum Vitae (CV), Upload file Document Portfolio
+Dapat Submit Application sebagai candidate 
+
+
+Ketentuan :
+- Kondisi Awal: Kandidat dari Web berada pada halaman jobs-list of jobs
+- Action : Mengisi personal data sesuai validasi 
+- Kondisi Akhir: Kandidat dari Web berhasil mensubmit personal datanya
+
+Penilaian : 
+- Penulisan Test-script
+- Test-script berhasil di run 
+- Test-case Validasi yang di temukan 
+
+Unggah file spec.js keGithub @rayhantimur bisa dalam folder atau file dengan menggunakan format codex_test-case_qa_{nama kandidat} ke repository tersebut. Selamat mengerjakan!
